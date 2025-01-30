@@ -1,4 +1,5 @@
 # My_repo
-Author - bibek
+Author - Bibek
 <br>
-this is my first git commit
+HTML Lessons for Frontend Development
+
